@@ -1,4 +1,4 @@
-# get_alt_branches
+# getaltbranches
 
 A lightweight library for getting branches from public REST API https://rdb.altlinux.org/api/
 
@@ -14,14 +14,14 @@ The utility runs under all OS including Linux.
 
 ### Installing
 
-Install this module with pip: `pip install get_alt_branches`
+Install this module with pip: `pip install getaltbranches`
 
 ### Executing program
 
 After installing, you have several features:
 * ```get_branches_packages(first branch, second branch, architecture[optional])``` 
 
-  Gets lists of binary packages of 2 branches or lists with a specific architecture. <br/><br/>
+  Get lists of binary packages of 2 branches or lists with a specific architecture. <br/><br/>
    
 * ```first_branch_unique_packages(first branch, second branch, architecture[optional])```
 
